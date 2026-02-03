@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Laba9_Web/static/css/main.507fb898.css",
+    "main.js": "/Laba9_Web/static/js/main.9a8ff555.js",
+    "index.html": "/Laba9_Web/index.html",
+    "main.507fb898.css.map": "/Laba9_Web/static/css/main.507fb898.css.map",
+    "main.9a8ff555.js.map": "/Laba9_Web/static/js/main.9a8ff555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507fb898.css",
+    "static/js/main.9a8ff555.js"
+  ]
+}
